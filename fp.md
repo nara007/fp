@@ -1,0 +1,3 @@
+## <center>SANE Dashboard</center>
+#### 1. Motivation
+&nbsp;&nbsp;SANE(Server Access Network Entity) is a set of crowdsourcing proxies, which plays a important role and act as intermediaries between between crowdsourcing clients and crowdfunding servers. The crowdsourcing clients are not allowed to communicate with crowdsourcing servers directly. Every request must be forwarded by SANE. The Architecture of SANE is based on DHT(Distributed Hash Table). This means, 
